@@ -1,0 +1,10 @@
+nome=input('Qual seu nome completo?')
+maiuscula=nome.upper()
+minuscula=nome.lower()
+print(maiuscula, minuscula)
+letras=len(nome)-nome.count(' ')
+print(letras)
+primeiro_nome=nome.split()[0]
+print(primeiro_nome)
+primeiro1= len(primeiro_nome)
+print(primeiro1)
