@@ -5,4 +5,4 @@ media =(nota1+nota2)/2
 if media>=6:
     print('aprovado')
 else:
-    print('reprovado')    
+    print('reprovado')    jonas
